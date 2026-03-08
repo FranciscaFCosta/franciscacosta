@@ -7,9 +7,6 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 
 ## Skills / Competencies
      
-  
-* Noções de automação de testes (Katalon Studio)
-
 * Manual test case design
 
 * Defect management and lifecycle management
