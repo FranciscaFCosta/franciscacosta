@@ -16,11 +16,12 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 *Noções de ferramentas de gestão de testes (Jira)
 *Noções de automação de testes (Katalon Studio)
 
-##Certifications
 
 ## 🏆 Certificações
 
 [![Cisco Badge](https://images.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608/public_url.png)](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
+
+![Badge](https://images.credly.com/size/340x340/images/8b8daa88-2bff-419c-8851-af61142c0608.png)
 
 
 ##Tools
