@@ -43,10 +43,3 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 [![Generative AI for Testers](https://images.credly.com/images/XXXXXXXX.png)](https://www.credly.com/badges/098f1163-468c-4749-846d-284dad405721)
 
 [![Quality Assurance Tester](https://images.credly.com/images/XXXXXXXX.png)](https://www.credly.com/badges/46f95f61-3efb-4488-97a2-eea1d3e20976)
-
-
-
-
-
-
-##Tools
