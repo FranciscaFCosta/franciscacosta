@@ -6,24 +6,27 @@ I completed a QA Tester Academy, which enabled me to acquire solid knowledge in 
 Seeking a QA Tester opportunity that allows me to grow professionally and add value to the team by ensuring efficient, quality and user-centered software.
 
 ## Skills / Competencies
-
-* Desenho de casos de teste manuais
-  
-* Gestão e ciclo de vida de defeitos
-  
-* Ciclo de Vida de Desenvolvimento de Software (SDLC)
-  
-* Metodologias Agile e Waterfall
-  
-* Fundamentos de base de dados (SQL)
-  
-* Fundamentos de Python
-  
-* Execução de testes de API (Postman)
-  
-* Noções de ferramentas de gestão de testes (Jira)
+     
   
 * Noções de automação de testes (Katalon Studio)
+
+* Manual test case design
+
+* Defect management and lifecycle management
+
+* Software Development Lifecycle (SDLC)
+
+* Agile and Waterfall methodologies
+
+* Database fundamentals (SQL)
+
+* Python fundamentals
+
+* API test execution (Postman)
+
+* Basic knowledge of test management tools (Jira)
+
+* Basic knowledge of test automation (Katalon Studio)
 
 
 ## 🏆 Certificações
