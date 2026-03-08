@@ -28,5 +28,6 @@ https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
 - Cisco Networking Academy Badge  
   https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
 
+https://images.credly.com/badges/<badge-id>/https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608.png
 
 ##Tools
