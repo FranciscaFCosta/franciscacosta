@@ -30,4 +30,6 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
 
 
+[![Quality Tester Badge](https://images.credly.com/images/XXXXXXXX.png)](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
+
 ##Tools
