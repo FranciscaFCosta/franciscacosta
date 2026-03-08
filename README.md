@@ -7,7 +7,7 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 
 ## Skills / Competencies
 
-*Desenho de casos de teste manuais
+* Desenho de casos de teste manuais
 *Gestão e ciclo de vida de defeitos
 *Ciclo de Vida de Desenvolvimento de Software (SDLC)
 *Metodologias Agile e Waterfall
