@@ -17,8 +17,15 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 *Noções de automação de testes (Katalon Studio)
 
 ##Certifications
+
+- Badge: https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
+
+- - Cisco Badge (Credly)  
 https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
-Cisco Networking Academy Badge  
+
+[Ver badge no Credly](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
+
+- Cisco Networking Academy Badge  
   https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
 
 
