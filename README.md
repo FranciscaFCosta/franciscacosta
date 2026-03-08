@@ -28,7 +28,7 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 
 
 
-## 🏆 Certificações
+##Certifications
 
 [![Quality Tester](https://images.credly.com/images/XXXXXXXX.png)](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
 
