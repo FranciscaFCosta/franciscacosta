@@ -5,7 +5,7 @@ I completed a QA Tester Academy, which enabled me to acquire solid knowledge in 
 
 Seeking a QA Tester opportunity that allows me to grow professionally and add value to the team by ensuring efficient, quality and user-centered software.
 
-##Skills/Competencies
+##Skills / Competencies
 *Desenho de casos de teste manuais
 *Gestão e ciclo de vida de defeitos
 *Ciclo de Vida de Desenvolvimento de Software (SDLC)
