@@ -19,17 +19,6 @@ Seeking a QA Tester opportunity that allows me to grow professionally and add va
 
 ## 🏆 Certificações
 
-[![Cisco Badge](https://images.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608/public_url.png)](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
-
-![Badge](https://images.credly.com/size/340x340/images/8b8daa88-2bff-419c-8851-af61142c0608.png)
-
-[![Nome do Badge](https://images.credly.com/images/XXXXXXX.png)](https://www.credly.com/badges/XXXXXXXX)
-
-## Certificação
-
-https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608
-
-
 [![Quality Tester Badge](https://images.credly.com/images/XXXXXXXX.png)](https://www.credly.com/badges/8b8daa88-2bff-419c-8851-af61142c0608)
 
 ##Tools
